@@ -1,0 +1,1 @@
+win = pygame.display.set_mode((WIN_WIDTH,WIN_HEIGHT))
